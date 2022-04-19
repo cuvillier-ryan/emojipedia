@@ -1,2 +1,2 @@
 # emojipedia
-React App
+React Mapping 
